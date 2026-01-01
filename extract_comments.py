@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 """
+
+final
+
 mattgadient_comments_to_insights.py
 
 Extract unstructured blog comments into a structured Excel "database" for analysis:
